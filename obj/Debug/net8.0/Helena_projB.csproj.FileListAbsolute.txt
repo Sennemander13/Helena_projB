@@ -1,0 +1,14 @@
+C:\Users\31653\Desktop\Helena's\Helena_projB\bin\Debug\net8.0\Helena_projB.exe
+C:\Users\31653\Desktop\Helena's\Helena_projB\bin\Debug\net8.0\Helena_projB.deps.json
+C:\Users\31653\Desktop\Helena's\Helena_projB\bin\Debug\net8.0\Helena_projB.runtimeconfig.json
+C:\Users\31653\Desktop\Helena's\Helena_projB\bin\Debug\net8.0\Helena_projB.dll
+C:\Users\31653\Desktop\Helena's\Helena_projB\bin\Debug\net8.0\Helena_projB.pdb
+C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\Helena_projB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\Helena_projB.AssemblyInfoInputs.cache
+C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\Helena_projB.AssemblyInfo.cs
+C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\Helena_projB.csproj.CoreCompileInputs.cache
+C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\Helena_projB.dll
+C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\refint\Helena_projB.dll
+C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\Helena_projB.pdb
+C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\Helena_projB.genruntimeconfig.cache
+C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\ref\Helena_projB.dll
