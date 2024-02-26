@@ -12,3 +12,7 @@ C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\refint\Helena_proj
 C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\Helena_projB.pdb
 C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\Helena_projB.genruntimeconfig.cache
 C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\ref\Helena_projB.dll
+C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\Helena_projB.sourcelink.json
+C:\Users\31653\Desktop\Helena's\Helena_projB\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\Helena_projB.csproj.AssemblyReference.cache
+C:\Users\31653\Desktop\Helena's\Helena_projB\obj\Debug\net8.0\Helena_projB.csproj.CopyComplete

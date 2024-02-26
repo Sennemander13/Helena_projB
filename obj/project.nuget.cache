@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "U/mRUsnUqI2zZ7L0rTpdqgFl00PIZ+KfunpLMorxxc7EbD11y4kt1tj4zcLoDKBUq6JX1yeVWiOBjCeaAaMLug==",
+  "dgSpecHash": "B0ykA44R1jsXNJyuWclX0AceAW8JsgMAJPq0myIJ51DWdYQg0cuLXmrCOifjl9Rj5D6q7HOo5W0OOpXNkGerIw==",
   "success": true,
   "projectFilePath": "C:\\Project B Helena\\Helena_projB\\Helena_projB.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Project B Helena\\Helena_projB\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
