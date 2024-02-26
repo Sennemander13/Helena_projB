@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Helena_projB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02af9cb6d6292b2db8b3ed1f62cc5b0a4e7ab516")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bad25cbff349846cea5e3a5030ebde16a9eba17a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Helena_projB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Helena_projB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
